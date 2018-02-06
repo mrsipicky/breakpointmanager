@@ -1,6 +1,6 @@
 # SASS breakpoint manager
 
-*(5-10 minutes reading and understanding)*
+*(5-10 minutes of reading and understanding)*
 
 *Your new SASS breakpoint mixin with **super powers!***
 This is breakpoint solution based on Foundation 6 framework, simplified and made better.
