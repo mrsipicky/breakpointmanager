@@ -11,7 +11,7 @@ This is breakpoint solution based on Foundation 6 framework, simplified and made
 // A list of named breakpoints. You can use these with the `breakpoint()` mixin to quickly create media queries.
 // @type Map
 $breakpoints: (
-	small: 0,
+small: 0,
 	medium: 640px,
 	large: 1024px,
 	xlarge: 1200px,
