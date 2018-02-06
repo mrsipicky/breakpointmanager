@@ -55,14 +55,17 @@ It's very easy!
 }
 ```
 
+
 **BREAKPOINT** *(string or number)* - can be key from $breakpoints map, or value (value can be in *em, rem,* or *px*. Unitless values are presumed like pixels). All inputs will be converted to '***em***' values.
    - **Examples:** *'small', 'medium', 'large', '400', '500px', '20em', '40rem'*.
    - **These inputs will throw console error**: *'0', 'null', '0 down' & empty string*. Also non-exist named (string) breakpoint will throw error. (You must defined all named breakpoints into *$breakpoint* map)
    - **Device oriented breakpoints**: *'portrait', 'landscape', 'retina'* 
    
+   
 **DIRECTION** *(string)* - is breakpoint direction. 
    - **Examples** - *'down', 'only', 'up'* (***up*** is default)
    - **Handler** - only **named** breakpoint (*small, medium,* etc.) can have *'only'* parameter. (because of the unit range).
+
 
 # Instalation 
    **1.** Set up your $breakpoint map like in example above.
