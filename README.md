@@ -1,4 +1,4 @@
-# SASS breakpoint manager
+# Better SASS breakpoint manager
 
 *(5-10 minutes of reading and understanding)*
 
