@@ -68,10 +68,10 @@ It's very easy!
 
 
 # Instalation 
-
-	**1.** Set up your $breakpoint map like in example above.
-	**2.** Import ***_breakpoint.scss*** file via @import directive. (@import 'breakpoint.scss';)
-	**3.** Do magic within selectors! *@include breakpoint(...) {}* !
+   
+   ***1.*** Set up your ***$breakpoint*** map like in example above.
+   ***2.*** Import ***_breakpoint.scss*** file via @import directive. (@import 'breakpoint.scss';)
+   ***3.*** Do magic within selectors! **@include breakpoint(...) {}** !
    
 
 # Examples
