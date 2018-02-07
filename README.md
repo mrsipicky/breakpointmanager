@@ -69,7 +69,7 @@ It's very easy!
 
 # Instalation 
    
-   ***1.*** Set up your ***$breakpoint*** map like in example above.
+   ***1.*** Set up your ***$breakpoints*** map like in example above.
    
    ***2.*** Import ***_breakpoint.scss*** file via @import directive. (@import 'breakpoint.scss';)
    
